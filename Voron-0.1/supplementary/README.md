@@ -24,3 +24,5 @@
 * Page 128: SIBOOR V0.1 kit, using a two in one Gemini motherboard, using four nylon posts and M3 × 8 Screws are fixed on the acrylic panel.
 
 * Page 132-139: See the SIBOOR V0.1 kit supplementary instructions separatel
+
+![image](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-0.1/supplementary/SIBOOR 0.1supplementary.pdf)
