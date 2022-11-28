@@ -25,4 +25,4 @@
 
 * Page 132-139: See the SIBOOR V0.1 kit supplementary instructions separatel
 
-![image](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-0.1/supplementary/SIBOOR 0.1supplementary.pdf)
+![image](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-0.1/supplementary/SIBOOR%200.1supplementary.pdf)
