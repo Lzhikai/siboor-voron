@@ -16,5 +16,5 @@ Trident Wiring
 
 <p align="center">
   <a href="https://discord.gg/qYaH3P9DZt" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="discord" />
  </a>
