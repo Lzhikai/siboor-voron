@@ -1,5 +1,4 @@
-# Siboor  Installation manual
- <p align="center">
+# Siboor  Installation manual <p align="center">
   <a href="https://discord.gg/qYaH3P9DZt" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Discord-blueviolet.svg" alt="built with love badge" />
  </a>
