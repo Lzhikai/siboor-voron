@@ -1,4 +1,8 @@
-# Siboor
+# Siboor <p align="center">
+  <a href="https://discord.gg/qYaH3P9DZt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Discord-blueviolet.svg" alt="built with love badge" />
+ </a>
+
  Installation manual
 
 v0.1 Wiring  
@@ -14,7 +18,3 @@ Trident Wiring
 
 # *Join the conversation on our [Discord community](https://discord.gg/qYaH3P9DZt)!*
 
-<p align="center">
-  <a href="https://discord.gg/qYaH3P9DZt" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Discord-blueviolet.svg" alt="built with love badge" />
- </a>
