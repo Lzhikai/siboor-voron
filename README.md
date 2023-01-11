@@ -1,4 +1,4 @@
-# siboor-voron
+# Siboor
  Installation manual
 
 v0.1 Wiring  
