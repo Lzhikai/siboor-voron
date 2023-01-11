@@ -1,10 +1,9 @@
-# Siboor 
-# <p align="center">
+# Siboor  Installation manual
+<p align="center">
   <a href="https://discord.gg/qYaH3P9DZt" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Discord-blueviolet.svg" alt="built with love badge" />
  </a>
 
- Installation manual
 
 v0.1 Wiring  
 [Fly3D GeminiV2.0-wiring](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-0.1/Fly3D%20GeminiV2.0-wiring.jpg)  
