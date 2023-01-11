@@ -18,3 +18,6 @@ v2.4 Wiring
 Trident Wiring
 
 [Spider 2.3-Afterburner-Wiring](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-Trident/Spider%202.3wiring.jpg)
+
+
+**Join the conversation on our [Discord community](https://discord.gg/qYaH3P9DZt)!**
