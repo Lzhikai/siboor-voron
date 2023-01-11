@@ -14,3 +14,5 @@ or
 [Stealthburner-Wiring](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-2.4/SIBOOR%20V2.4-Stealthburner-Wiring%20of%20spider%202.3.jpg)
 
 [Afterburner-Wiring](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-2.4/SIBOOR%20V2.4-Afterburner-Wiring%20of%20spider%202.3.jpg)
+
+<img src="https://github.com/Lzhikai/siboor-voron/blob/main/Voron-2.4/SIBOOR%20V2.4-Stealthburner-Wiring%20of%20spider%202.3.jpg" width="200" height="200">
