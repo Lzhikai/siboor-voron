@@ -13,16 +13,3 @@ Trident Wiring
 [Spider 2.3-Afterburner-Wiring](https://github.com/Lzhikai/siboor-voron/blob/main/Voron-Trident/Spider%202.3wiring.jpg)  
 
 # *Join the conversation on our [Discord community](https://discord.gg/qYaH3P9DZt)!*
-
-  import { Component } from '@angular/core';
-  import { MovieService } from './services/movie.service';
-
-  @Component({
-    selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.css'],
-    providers: [ MovieService ]
-  })
-  export class AppComponent {
-    title = 'app works!';
-  }
