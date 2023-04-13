@@ -15,35 +15,35 @@
 
 2. Once open, Select "Flash from file"
 
-    ![Balena Etcher 1!](./images/picture1.png "Balena Etcher 1")
+    ![Balena Etcher 1!](./images/Picture1.png "Balena Etcher 1")
 
 3. Select the Siboor / 3D Geek Station Image file (1) and select `Open` (2)
 
-    ![Balena Etcher 2!](./images/picture2.png "Balena Etcher 2")
+    ![Balena Etcher 2!](./images/Picture2.png "Balena Etcher 2")
 
 4. After selecting the image, the image name will be displayed. Click `Select Target` in order to select the memory card to be burned. 
 
-    ![Balena Etcher 3!](./images/picture3.png "Balena Etcher 3")
+    ![Balena Etcher 3!](./images/Picture3.png "Balena Etcher 3")
 
 5. Select the memory card you want to burn the image too, it is imporant you pay attention at this point, if you select the wrong drive data may be irecoverable. Once the drive has been selected (1) press `Select (1)` (2)
 
-    ![Balena Etcher 4!](./images/picture4.png "Balena Etcher 4")
+    ![Balena Etcher 4!](./images/Picture4.png "Balena Etcher 4")
 
 6. Click the `Flash` Button.    
     
-    ![Balena Etcher 5!](./images/picture5.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture5.png "Balena Etcher 5")
 
 7. Your Micro SD card will start to Flash, it will display `Flashing...` followed by the percentage it is through the process. 
 
- ![Balena Etcher 6!](./images/picture6.png "Balena Etcher 6")
+ ![Balena Etcher 6!](./images/Picture6.png "Balena Etcher 6")
 
 7. Once it has finished flashing, it will Validate the Flash was a success, it is advisable to let this process complete rather than pressing `Skip`. 
 
- ![Balena Etcher 7!](./images/picture7.png "Balena Etcher 7")
+ ![Balena Etcher 7!](./images/Picture7.png "Balena Etcher 7")
 
 7. Once complete, it will say Flash Complete, you can now eject the Micro SD Card from the Micro SD Card Reader.  
 
- ![Balena Etcher 8!](./images/picture8.png "Balena Etcher 8")
+ ![Balena Etcher 8!](./images/Picture8.png "Balena Etcher 8")
 
 8. Insert the MicroSD Card into your Orange Pi 3 LTS.
 
@@ -61,26 +61,26 @@
     ```
     The following screen will load up  
 
-    ![Balena Etcher 5!](./images/picture9.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture9.png "Balena Etcher 5")
 
     Enter your password `klipper`
 
 3.  nand-sata-install will open, select insure the option `2 - Boot from eMMC - system on eMMC` is selected and press enter. 
 
-    ![Balena Etcher 5!](./images/picture11.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture11.png "Balena Etcher 5")
 
 4.  Select `Yes`, Press Enter. 
 
-    ![Balena Etcher 5!](./images/picture12.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture12.png "Balena Etcher 5")
 
 5.  Select `Ext4`, Press Tab, Select `OK`, Press Enter. 
 
-    ![Balena Etcher 5!](./images/picture13.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture13.png "Balena Etcher 5")
 
 6.  Wait for the progress bar to finish.  
 
-    ![Balena Etcher 5!](./images/picture14.png "Balena Etcher 5")
-    ![Balena Etcher 5!](./images/picture15.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture14.png "Balena Etcher 5")
+    ![Balena Etcher 5!](./images/Picture15.png "Balena Etcher 5")
 
 7. Once the progress bar has finsihed, you will be prompted to power off the Orange Pi 3 LTS, select `Power Off` and once the Orange Pi has powered down, remove the Micro SD card. 
 
