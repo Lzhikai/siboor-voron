@@ -61,31 +61,31 @@
     ```
     The following screen will load up  
 
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture9.png "Balena Etcher 5")
+    ![Balena Etcher 9!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture9.png "Balena Etcher 9")
 
     Enter your password `klipper`    
     
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture10.png "Balena Etcher 5")
+    ![Balena Etcher 10!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture10.png "Balena Etcher 10")
 
 3.  nand-sata-install will open, select insure the option `2 - Boot from eMMC - system on eMMC` is selected and press enter. 
 
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture11.png "Balena Etcher 5")
+    ![Balena Etcher 11!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture11.png "Balena Etcher 11")
 
 4.  Select `Yes`, Press Enter. 
 
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture12.png "Balena Etcher 5")
+    ![Balena Etcher 12!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture12.png "Balena Etcher 12")
 
 5.  Select `Ext4`, Press Tab, Select `OK`, Press Enter. 
 
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture13.png "Balena Etcher 5")
+    ![Balena Etcher 13!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture13.png "Balena Etcher 13")
 
 6.  Wait for the progress bar to finish.  
 
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture14.png "Balena Etcher 5")
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture15.png "Balena Etcher 5")
+    ![Balena Etcher 14!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture14.png "Balena Etcher 14")
+    ![Balena Etcher 15!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture15.png "Balena Etcher 15")
 
 7. Once the progress bar has finsihed, you will be prompted to power off the Orange Pi 3 LTS, select `Power Off` and once the Orange Pi has powered down, remove the Micro SD card.   
 
-    ![Balena Etcher 5!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture16.png "Balena Etcher 5")  
+    ![Balena Etcher 16!](https://github.com/Lzhikai/siboor-voron/blob/main/accessories/flashing%20OrangePi3%20LTS/images/Picture16.png "Balena Etcher 16")  
     
 ### If this process has been successful, the next time you boot your Orange Pi 3 LTS, it will boot directly into the image. 
