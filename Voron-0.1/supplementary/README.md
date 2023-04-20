@@ -9,7 +9,7 @@
 
 * Pages 15, 17 and 71: As described above, two purple PCBs are used as guide rail fixing strips to fix the MGN7 guide rail.
 
-* Page 99: The SIBOOR V0.1 kit is already equipped with a soldered limit switch, plug and play.
+* Page 99: The SIBOOR V0.1 kit is already equipped with a soldered endstop, plug and play.
 
 * Page 108: The hot end of the SIBOOR V0.1 Young Version requires a longer catheter (29.5mm). Make sure that the bearing is flush with the shaft, otherwise it will cause friction between the metal shaft and the motor. Place the side of the bearing flat on the table and press the white gear with both thumbs to make the bearing flush with the shaft.
 
