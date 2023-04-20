@@ -3,7 +3,7 @@
 
 ***Github SIBOOR V0.1 kit assembly manual instruction.***
 
-* Page 10-11: In SIBOOR V0.1 kit, profile A and profile B are combined into one profile, both of which have been tapped and are common to each other. C profile and H profile are combined into one profile, both of which are drilled and tapped, which are common to each other.
+* Page 10-11: In SIBOOR V0.1 kit, extrusion A and profile B are combined into one profile, both of which have been tapped and are common to each other. C profile and H profile are combined into one profile, both of which are drilled and tapped, which are common to each other.
 
 * Page 14: The SIBOOR V0.1 kit uses the guide strip of purple PCB, so it does not need to use the printed parts and embedded M2 nut.
 
