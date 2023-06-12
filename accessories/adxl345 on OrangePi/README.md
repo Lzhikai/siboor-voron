@@ -5,8 +5,6 @@
 2. 6 DuPoint (Male-Male) Wires (Suitable Length to get from your OrangePi to your Extruder)
 3. Orange Pi 3 LTS w/ Siboor 3D Geek OS installed. 
 4. ADXL345 Mount for your hotend. (Can be printed in PLA as it isn't perminantly attached.)
-
-## Software Installation
 *Note - this may take a long time, do not do this while your printer is printing as it may result in a failed print.*
 
 1. SSH into your Orange Pi 3. Login with username `klipper` and password `klipper`
@@ -91,7 +89,7 @@
         150, 150, 20
 
     [adxl345]
-    cs_pin: rpi:None
+    cs_pin: rpi:gpiochip1/gpio227
     spi_bus: spidev1.0
 
     [mcu rpi]
@@ -115,7 +113,7 @@
 9. Navigate to your Fluidd/Mainsail interface and enter the following command in to your console
     
     ```gcode
-    accelorometer_query
+    ACCELEROMETER_QUERY
     ```
     You should see an output similar to what is shown below. 
 
