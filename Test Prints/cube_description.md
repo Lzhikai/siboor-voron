@@ -9,6 +9,3 @@ Test cube inspired by VORON CUBE V7.
 
 Post your prints here!
 https://www.printables.com/model/522510-siboor-print-calibration-cube  
-
-Donation is welcome :)  
-https://www.buymeacoffee.com/psych0h3ad
